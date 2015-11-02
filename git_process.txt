@@ -1,0 +1,15 @@
+My routine on accessing and modifying files, then saving it on the cloud.
+
+Intro
+Github is a website that allows you to upload your computer codes for various purposes: to store, available for others to edit and access, and to be published(I guess).
+
+To edit then save your files on the cloud.
+1.In order to perform and save offline actions associated with the github server, you must use 'Terminal', a program in which you can directly give commands to your computer. To open it, press 'Ctrl+Alt+T', or your can search up the program name in the computer.
+2.You will have to clone your files from github in order to edit them offline by using the code:  git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo  , by substituting in your username, password, and the Url to your repository. This will only copy the files and any changes you make and saved on the computer will not be made to the files you have on the github website.
+3.Access the repository folder you have just made a copy of via terminal by typing the code:  cd <repository name>  , by substituting in your repository name.
+4.When you see the blue text of ~/<repository name> $, substituting in your repository name, your terminal is in your repository folder. Your can see what files you have in the folder by etyping the code  ls  when inside the folder. Now, you will be able to create and edit your files.
+5.To create or access a gedit file, type the code  gedit <file name> &  in the terminal. The '&' allows to work on the file and run terminal simultaneously. When you substitute in an existing file name, it will allow you to edit the file. When you substitute it with a non-existing file name, it will create a file with the name.
+6.Save your files on the computer.
+7.Before saving the files up on the github site, you must add the changes of the files by typing  git add <file name>  in the terminal
+8.Then, save the files by typing  git commit -m "<commit comment"  , by substituting in notes and comments on your changes.
+9.Lastly, type  git push  to add the files to the github website. Fill in your username and password as required.
