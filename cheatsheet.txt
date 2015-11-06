@@ -1,12 +1,20 @@
 Git Commands::
-
-1. git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http:/url-to-your-repo :: a command for creating a clone of the repository on your computer.
-2. git add <file name>
-3. git commit -m "Commit Comment"
-4. git push
++ git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http:/url-to-your-repo :: a command for creating a clone of the repository on your computer.
++ git add <file name>
++ git commit -m "Commit Comment"
++ git push
 
 Other Terminal Commands::
-5. ls <directory name> :: lists contents of the directory
-6. cd <directory name> :: changes directory(if directory name left empty, goes to home.)
-7. cd .. :: goes up(to parent folder)
-8. gedit <filename> & :: launches gedit to edit the file. the '&' sign allows you to run terminal simultaneously.
++ ls <directory name> :: lists contents of the directory
++ cd <directory name> :: changes directory(if directory name left empty, goes to home.)
++ cd .. :: goes up(to parent folder)
++ gedit <filename> & :: launches gedit to edit the file. the '&' sign allows you to run terminal simultaneously.
++ python -m SimpleHTTPServer :: start development server.
+
+sftp Commands::
++ sftp username@-hsteacher
++ ls
++ cd
++ pretend a command with  !  to execute it on local
++ put <filename>  or  get <filename> :: upload file
++ rm <filename> :: remove file
