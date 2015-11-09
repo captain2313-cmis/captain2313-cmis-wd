@@ -12,7 +12,7 @@ Other Terminal Commands::
 + python -m SimpleHTTPServer :: start development server.
 
 sftp Commands::
-+ sftp username@-hsteacher
++ sftp username@hs-teacher
 + ls
 + cd
 + pretend a command with  !  to execute it on local

@@ -1,0 +1,20 @@
+h1{
+	color:black;
+	font-family:courier, monospace;
+	border:wave;
+	background:9999CC;
+}
+h2{
+	color:pink;
+	background:brown;
+	border:double;
+	font:Gadget, sans-serif;
+}
+p1{
+	color:black;
+	font-family:courier, monospace;
+	border:wavy;
+}
+nav{
+	color:blue;
+}
