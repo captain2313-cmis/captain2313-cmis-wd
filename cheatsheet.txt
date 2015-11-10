@@ -1,4 +1,4 @@
-Git Commands::
+geditGit Commands::
 + git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http:/url-to-your-repo :: a command for creating a clone of the repository on your computer.
 + git add <file name>
 + git commit -m "Commit Comment"

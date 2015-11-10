@@ -1,20 +1,29 @@
+html{
+	background: url(http://www.stories.com/Content/ProductContent/0293835001/0293835001_2_100090.jpg);
+	border:inset;
+}
+body{
+ background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQwMDAwMDAwMDQwHBwwHBw8IDAcMFBEWFhQRFBQYHCggGBoxGxQUITEhJSkrLi4uFx8zODMsNygtLisBCgoKDAwMDgwMDiwZFBkrLCwsKzc3LCwrLCsrLCwsKysrLCwrLCwrLCwrLCssKysrLCsrKysrKysrLCsrLCssK//AABEIAJEBWgMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAgEDB//EABYQAQEBAAAAAAAAAAAAAAAAAAABEf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/APLQGnEAAAAABsVExUEVFRMVFZqouIi4rNVFRMVBFxUTFRWVRrIqDLQaqMZWsoMqaqpqKmoq6mjURU1VTUaiKmqqajSamqqaNJrG1lRWACgAAAAMBoAAAAAAANiomKgioqJjYrNXFxEVFSrioiLgyuNiYqKyuNTGwZU1LRGsGaKyprayixlRVVNRYmpqqijSamqqajSamtrKNJrK2pqKACgAAAAAAAAAAAAANjYmKgioqJjYqLioiKgy6RURFSqyuKiGyiLipUSt1WV6anTQxWs1ms0MbrKzWWilTS1lqLGVFbU0aZU1tTUajKmtrKisqW1goAKAAAAAAAAAAAAAANjGwRUVERUEVFRCpVRcVKiVUqouVWucqpRlcrdRrdExemo1uiYrWazWaLitTazWWg21NpanRoqa21NRWVNbU0aKmtqUUYAoAAAAAAAAAAAAAAAAADYqJbBFRsS2CLlVKhsqouVWueqlEXrdRpqpi9bqNNEVpqdNFbrNZrNBustZrNRSpprBRNbU1FKwYKACgAAAAAAAAAAAAAAAAADWAKbEtEVK1LdEVrdToqYvW6jW6GK1uo00Res1OmgrWanQXG2sYzRWptGIDBgoAKAAAAAAAAAAAAAAAAAAAAAAAA1upaIrW6hugrW6jW6IrROgKNTpoK1ms1mg3WaMFaxgAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAANYA01gI3W6kBTNYA01gAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARgA0AAAAAAAAAAAAAAAAAAAAAAAAYA0AAAAAAAAAAABgA/9k=);
+}
 h1{
-	color:black;
+	color:pink;
 	font-family:courier, monospace;
-	border:wave;
-	background:9999CC;
+	border:solid;
+	background: yellow;
+	text-shadow: 2px;
 }
 h2{
 	color:pink;
-	background:brown;
+	background: url(http://33.media.tumblr.com/tumblr_mejev1tV3O1rilp8po1_500.gif);
 	border:double;
 	font:Gadget, sans-serif;
+	
 }
 p1{
-	color:black;
+	color:pink;
 	font-family:courier, monospace;
 	border:wavy;
 }
-nav{
-	color:blue;
+footer{
+	color:pink;
 }
