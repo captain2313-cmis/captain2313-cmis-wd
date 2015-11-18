@@ -5,13 +5,17 @@ geditGit Commands::
 + git push
 
 Other Terminal Commands::
++ URL:: localhost:<portnumber>
 + ls <directory name> :: lists contents of the directory
 + cd <directory name> :: changes directory(if directory name left empty, goes to home.)
 + cd .. :: goes up(to parent folder)
 + gedit <filename> & :: launches gedit to edit the file. the '&' sign allows you to run terminal simultaneously.
 + python -m SimpleHTTPServer :: start development server.
++ mkdir <new directory name> :: creates a new folder
++ rmdir <direcory name> :: removes folder
 
 sftp Commands::
++ URL:: cmis-hsteacher/name1234
 + sftp username@hs-teacher
 + ls
 + cd
