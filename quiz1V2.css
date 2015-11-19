@@ -1,0 +1,41 @@
+header{
+	border-bottom:yellow dashed 10px;
+	background:red;
+}
+main{
+	border-right: solid blue 10px;
+	border-left:solid red 10px;
+}
+h1{
+	font:bold italic;
+	color: yellow;
+	background: purple;
+	border-right: dashed 20px;
+}
+h2{
+	color:purple;
+	background:yellow;
+	border-top:dashed;
+}
+h3{
+	color:yellow;
+	background:green;
+	border-bottom:dotted;
+}
+p{
+	color:blue;
+	background:red;
+	font:bold italic;
+}
+p1{
+	line-height:2em;
+	color:blue;
+}
+footer{
+	line-height:2em;
+	color:blue;
+	border-top:solid grey 2px;
+	border-left:solid gold;
+	border-right:darkgoldenrod solid;
+	margin-left:solid green 20px;
+}
