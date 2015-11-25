@@ -3,28 +3,43 @@ html{
 	border:inset;
 }
 body{
- background: url(http://cdn.playbuzz.com/cdn/5cf5871e-0b2c-4072-b398-ff140fa26844/a9eaff77-5ef2-44a3-8309-72243e8e06ca.jpg);
+ background: url(http://ekmpowershop6.com/ekmps/shops/polished/images/polished-plaster-textures-cream-240-p.jpg);
 }
 h1{
-	color:pink;
-	font-family:courier, monospace;
-	border:solid;
-	background: yellow;
-	text-shadow: 2px;
-}
-h2{
-	color:pink;
-	background: blue;
+	color:darkslategrey;
+	background: url(http://24.media.tumblr.com/d83090791d4a63dc526b8073437d44f4/tumblr_mes4tird5L1rj1a3bo1_250.gif);
 	border:double;
 	font:Gadget, sans-serif;
-	
 }
-p1{
+h2{
+	color:darkslategrey;
+	background: url(http://24.media.tumblr.com/d83090791d4a63dc526b8073437d44f4/tumblr_mes4tird5L1rj1a3bo1_250.gif);
+	border:double;
+	font:Gadget, sans-serif;
+}
+h3{
+	color:darkslategrey;
+	border:solid;
+	background: url(http://24.media.tumblr.com/d83090791d4a63dc526b8073437d44f4/tumblr_mes4tird5L1rj1a3bo1_250.gif);
+}
+p{
 	color:black;
 	font-family:courier, monospace;
-	border:wavy;
-	background:white;
 }
 footer{
 	color:green;
 }
+/* Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server. */

@@ -16,7 +16,7 @@ Other Terminal Commands::
 
 sftp Commands::
 + URL:: cmis-hsteacher/name1234
-+ sftp username@hs-teacher
++ sftp name1234@cmis-hsteacher
 + ls
 + cd
 + pretend a command with  !  to execute it on local
