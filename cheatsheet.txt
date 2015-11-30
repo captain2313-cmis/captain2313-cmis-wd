@@ -20,5 +20,5 @@ sftp Commands::
 + ls
 + cd
 + pretend a command with  !  to execute it on local
-+ put <filename>  or  get <filename> :: upload file
++ put <filename>  or  get <filename> :: upload file or download file
 + rm <filename> :: remove file
