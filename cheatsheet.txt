@@ -22,3 +22,10 @@ sftp Commands::
 + pretend a command with  !  to execute it on local
 + put <filename>  or  get <filename> :: upload file or download file
 + rm <filename> :: remove file
+
+css notes::
++ css combinators(selector combinators)::
+	+descedant selector->  (space)  :: The descendant selector matches all elements that are descendants of a specified element.
+	+child selector->  >  :: The child selector selects all elements that are the immediate children of a specified element.
+	+adjacent sibling selector->  +  :: The adjacent sibling selector selects all elements that are the adjacent siblings of a specified element. Sibling elements must have the same parent element, and "adjacent" means "immediately following".
+	+general sibling selector->  ~  :: The general sibling selector selects all elements that are siblings of a specified element.
