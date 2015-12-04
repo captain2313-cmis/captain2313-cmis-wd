@@ -1,0 +1,31 @@
+header{
+	background:red;
+	height: 7em;
+}
+header > h1 {
+	border: solid yellow 1px;
+	left: 50px;
+}
+header p {
+	color:white;
+	background:red;
+}
+article1 {
+	border: solid;
+}
+main {
+	background:grey;
+}
+main > p {
+	background:black;
+	color:white;
+}
+p {
+	background:white;
+}
+footer {
+	color:white;
+	border: solid white;
+	background:blue;
+	padding: dotted blue 30px;
+}
