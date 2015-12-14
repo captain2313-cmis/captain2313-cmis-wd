@@ -1,0 +1,45 @@
+*{
+//	outline:solid 1px;
+}
+html{
+	background: url("backgroundimages/woodmain.jpg");
+}
+h1{
+		background:url("backgroundimages/h1wood.jpg");
+}
+article{
+	background:url("backgroundimages/articlewood.jpg");
+}
+h2{
+	background:url("backgroundimages/h2.jpg");
+}
+h3{
+	background:url("backgroundimages/h3wood.jpg");
+	clear:right;
+}
+nav{
+	width:200px;
+	float:left;
+	background:url("backgroundimages/navwood.jpg");
+}
+main{
+	margin-left:201px;
+}
+p{
+	background:url("backgroundimages/pwood.jpg");
+	margin-right:501px;
+}
+ul{
+	margin-right:600px;
+//	clear:right;
+	background:url("backgroundimages/pwood.jpg");
+}
+img{
+	float:right;
+}
+br{
+	clear:right;
+}
+footer{
+	background:url("backgroundimages/navwood.jpg");
+}
