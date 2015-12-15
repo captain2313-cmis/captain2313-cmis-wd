@@ -1,19 +1,23 @@
-*{
-//	outline:solid 1px;
-}
 html{
 	background: url("backgroundimages/woodmain.jpg");
 }
 h1{
-		background:url("backgroundimages/h1wood.jpg");
+	background:url("backgroundimages/h1wood.jpg");
+font-family: 'Engagement', cursive;
 }
 article{
+
+	border:double pink;
+	border-top:solid pink 10px;
+	margin-bottom:10px;
 	background:url("backgroundimages/articlewood.jpg");
 }
 h2{
 	background:url("backgroundimages/h2.jpg");
+	font-family: 'Muli', sans-serif;
 }
 h3{
+font-family: 'Rock Salt', cursive;
 	background:url("backgroundimages/h3wood.jpg");
 	clear:right;
 }
@@ -23,7 +27,7 @@ nav{
 	background:url("backgroundimages/navwood.jpg");
 }
 main{
-	margin-left:201px;
+	margin-left:210px;
 }
 p{
 	background:url("backgroundimages/pwood.jpg");
@@ -31,7 +35,6 @@ p{
 }
 ul{
 	margin-right:600px;
-//	clear:right;
 	background:url("backgroundimages/pwood.jpg");
 }
 img{
@@ -42,4 +45,10 @@ br{
 }
 footer{
 	background:url("backgroundimages/navwood.jpg");
+}
+main > p{
+	margin-right:0px;
+}
+table{
+	background:url("backgroundimages/pwood.jpg");
 }
