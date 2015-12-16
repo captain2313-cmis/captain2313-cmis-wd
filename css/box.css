@@ -1,10 +1,54 @@
+html{
+	background: brown;
+}
+h1{
+	background:cyan;
+font-family: 'Lobster', cursive;
+}
+article{
+	border:double pink;
+	border-top:solid pink 10px;
+	margin-bottom:10px;
+	background:green;
+}
+h2{
+	background:lime;
+font-family: 'Abel', sans-serif;
+}
+h3{
+font-family: 'Shadows Into Light', cursive;
+	background:lime;
+	clear:right;
+}
 nav{
+	border:double pink;
+	border-left:solid pink 10px;
 	width:200px;
 	float:left;
+	background:lime;
 }
-header{
-	margin-left:201px;
+main{
+	margin-left:210px;
 }
-main {
-	margin-left:201px;
+p{
+	border-left:solid 5px pink;
+}
+ul{
+	margin-right:600px;
+}
+img{
+	clear:right;
+	float:right;
+}
+br{
+	clear:right;
+}
+footer{
+	background:lime;
+}
+main > p{
+	margin-right:0px;
+}
+table{
+	background:gold;
 }
